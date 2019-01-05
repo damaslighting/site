@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{background:url(images/bg.jpg) no-repeat center top; background-color:#450900; color:#5d5d5d; font-family:calibri; font-size:15px;}
+
+.inner_contentbg{ background:url(images/inner_contentbg.jpg) repeat-y center top; width:1000px; height:auto;}
+
+.heading_orange{ color:#df4601; font-family:calibri; font-size:22px; font-weight:bold;}
+.heading_mehroon{ color:#4f0000; font-family:calibri; font-size:22px; font-weight:bold;}
+
+
+.text_orange{ color:#df4601; font-family:calibri; font-size:15px;}
+.text_mehroon{ color:#4f0000; font-family:calibri; font-size:15px;}
+
+.contactheading_orange{ color:#df4601; font-family:calibri; font-size:18px; font-weight:bold;}
+
+.email_color{ color:#5d5d5d; text-decoration:none;}
+a.email_color:hover{ color:#4f0000; text-decoration:none;}

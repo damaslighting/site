@@ -1,0 +1,62 @@
+@charset "utf-8";
+.style {
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #000;
+	text-align: left;
+}
+
+input, select, texarea
+{
+    font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #000;
+	border:1px solid silver;
+}
+
+.text 
+ {
+	font-family: "Arial", Gadget, sans-serif;
+	font-size: 12px;
+	color: #5c5b5b;
+	text-decoration:none;
+} 
+
+
+.text2, .text2 a
+ {
+	font-family: "Arial", Gadget, sans-serif;
+	font-size: 11px;
+	color: #333;
+	text-decoration:none;
+}
+
+.text2 a:hover
+ {
+	font-family: "Arial", Gadget, sans-serif;
+	font-size: 11px;
+	color: #16A7FE;
+	text-decoration:none;
+}
+	
+.style2 {
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #16A7FE;
+	text-align: center;
+}
+.text4 {
+	font-family: "Arial", Gadget, sans-serif;
+	font-size: 11px;
+	color: #FFF;
+	text-align:right;}
+	
+.msg
+{
+    font-family: "Arial", Gadget, sans-serif;
+	font-size: 11px;
+	color: red;	
+}
